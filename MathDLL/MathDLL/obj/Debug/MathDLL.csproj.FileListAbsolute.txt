@@ -1,0 +1,6 @@
+D:\web_hocki1\BTvenhaWEB1\MathDLL\MathDLL\bin\Debug\MathDLL.dll
+D:\web_hocki1\BTvenhaWEB1\MathDLL\MathDLL\bin\Debug\MathDLL.pdb
+D:\web_hocki1\BTvenhaWEB1\MathDLL\MathDLL\obj\Debug\MathDLL.csproj.AssemblyReference.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\MathDLL\obj\Debug\MathDLL.csproj.CoreCompileInputs.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\MathDLL\obj\Debug\MathDLL.dll
+D:\web_hocki1\BTvenhaWEB1\MathDLL\MathDLL\obj\Debug\MathDLL.pdb

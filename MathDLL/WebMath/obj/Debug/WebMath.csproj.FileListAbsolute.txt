@@ -1,0 +1,10 @@
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\bin\WebMath.dll.config
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\bin\WebMath.dll
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\bin\WebMath.pdb
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\bin\MathDLL.dll
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\bin\MathDLL.pdb
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\obj\Debug\WebMath.csproj.AssemblyReference.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\obj\Debug\WebMath.csproj.CoreCompileInputs.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\obj\Debug\WebMath.csproj.Up2Date
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\obj\Debug\WebMath.dll
+D:\web_hocki1\BTvenhaWEB1\MathDLL\WebMath\obj\Debug\WebMath.pdb

@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>THẦY NAM DẠY TOÁN LỚP 1</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .calculator {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        h1 {
+            color: #1a73e8;
+            margin-bottom: 20px;
+        }
+
+        .input-row {
+            margin: 10px 0;
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 10px;
+            color: #333;
+        }
+
+        input {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            width: 60px;
+            text-align: center;
+        }
+
+            input:focus {
+                outline: none;
+                border-color: #1a73e8;
+                box-shadow: 0 0 5px rgba(26, 115, 232, 0.5);
+            }
+
+        button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #1a73e8;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            button:hover {
+                background-color: #1557b0;
+            }
+
+        #result {
+            margin-top: 15px;
+            font-size: 18px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        .note {
+            margin-top: 10px;
+            font-size: 12px;
+            color: #777;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <h1>THẦY NAM DẠY TOÁN LỚP 1</h1>
+        <div class="input-row">
+            <label>Số A:</label>
+            <input type="number" id="numA" min="0" max="9">
+        </div>
+        <div class="input-row">
+            <label>Số B:</label>
+            <input type="number" id="numB" min="0" max="9">
+        </div>
+        <div class="input-row">
+            <label>Số C:</label>
+            <input type="number" id="numC" min="0" max="9">
+        </div>
+        <div class="input-row">
+            <label>Đáp số:</label>
+            <p id="result"></p>
+        </div>
+        <button onclick="calculate()">Tính</button>
+        <div class="note">Chú ý: Nam chỉ biết tính số nhỏ nên chỉ được nhập số 0-9 thôi nha</div>
+    </div>
+
+    <script>
+        function calculate() {
+            var a = document.getElementById('numA').value;
+            var b = document.getElementById('numB').value;
+            var c = document.getElementById('numC').value;
+            if (a === '' || b === '' || c === '' || a < 0 || a > 9 || b < 0 || b > 9 || c < 0 || c > 9) {
+                alert('Chỉ nhập 0-9!');
+                return;
+            }
+
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', 'api.aspx', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var data = JSON.parse(xhr.responseText);
+                    if (data.error) {
+                        document.getElementById('result').innerText = data.error;
+                    } else {
+                        document.getElementById('result').innerText = data.message;
+                    }
+                }
+            };
+            xhr.send('numA=' + a + '&numB=' + b + '&numC=' + c);
+        }
+    </script>
+</body>
+</html>

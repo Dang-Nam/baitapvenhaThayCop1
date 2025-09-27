@@ -1,0 +1,9 @@
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\bin\Debug\ConsoleMath.exe
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\bin\Debug\ConsoleMath.pdb
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\bin\Debug\MathDLL.dll
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\bin\Debug\MathDLL.pdb
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\obj\Debug\ConsoleMath.csproj.AssemblyReference.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\obj\Debug\ConsoleMath.csproj.CoreCompileInputs.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\obj\Debug\ConsoleM.953549BF.Up2Date
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\obj\Debug\ConsoleMath.exe
+D:\web_hocki1\BTvenhaWEB1\MathDLL\ConsoleMath\obj\Debug\ConsoleMath.pdb

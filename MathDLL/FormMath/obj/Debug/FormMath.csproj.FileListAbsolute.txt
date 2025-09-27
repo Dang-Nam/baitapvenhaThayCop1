@@ -1,0 +1,12 @@
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\bin\Debug\FormMath.exe
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\bin\Debug\FormMath.pdb
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\bin\Debug\MathDLL.dll
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\bin\Debug\MathDLL.pdb
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.csproj.AssemblyReference.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.Form1.resources
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.Properties.Resources.resources
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.csproj.GenerateResource.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.csproj.CoreCompileInputs.cache
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.csproj.Up2Date
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.exe
+D:\web_hocki1\BTvenhaWEB1\MathDLL\FormMath\obj\Debug\FormMath.pdb
