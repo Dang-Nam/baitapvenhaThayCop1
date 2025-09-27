@@ -1,12 +1,11 @@
 # baitapvenhaThayCop1
 # ĐẶNG PHƯƠNG NAM
-# WEB CỘNG 3 SỐ 
+# ĐỀ BÀI: PHÉP TOÁN CỘNG 3 SỐ ĐƠN GIẢN 
 
 CHÚ Ý: Chỉ cho phép nhập các số từ 0-9.
 
 
-BUIDL DLL
-
+build DLL
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0f7b390-c9eb-4894-959b-33ba41923451" />
 
@@ -35,19 +34,23 @@ Cấu hình cho nút Tính
 test fom 
 
 
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/933cfe1d-3db0-4893-b59f-8da82cfdcbb8" />
 
+
 tạo Sites trong iis 
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a1962d4-f4ac-4126-95fa-0d72b98aad44" />
 
 
 giao diện web
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c8ef850-a256-4381-a772-2a66ccae6ae7" />
 
+
 test web đơn giản
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b5a0dad-f3b8-43b0-ad35-e02490f955b0" />
 
