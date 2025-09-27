@@ -32,3 +32,6 @@ test fom
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/933cfe1d-3db0-4893-b59f-8da82cfdcbb8" />
 
+tạo Sites trong iis 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a1962d4-f4ac-4126-95fa-0d72b98aad44" />
