@@ -2,6 +2,9 @@
 # ĐẶNG PHƯƠNG NAM
 # ĐỀ BÀI: PHÉP TOÁN CỘNG 3 SỐ ĐƠN GIẢN 
 
+
+Bài tập này là một dự án lập trình thực hành môn học, tập trung vào việc triển khai một ứng dụng tính tổng 3 số với các thành phần bao gồm ứng dụng desktop (Windows Forms), thư viện DLL, và ứng dụng web sử dụng ASP.NET. Mục tiêu chính là rèn luyện kỹ năng lập trình đa nền tảng, quản lý code qua GitHub, và triển khai trên IIS.
+
 CHÚ Ý: Chỉ cho phép nhập các số từ 0-9.
 
 
